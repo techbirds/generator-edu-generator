@@ -1,4 +1,4 @@
-# generator-edu-generator [![Build Status](https://secure.travis-ci.org/techbirds/generator-edu-generator.svg?branch=master)](https://travis-ci.org/yeoman/generator-edu-generator)
+# generator-edu-generator [![Build Status](https://secure.travis-ci.org/techbirds/generator-edu-generator.svg?branch=master)](https://travis-ci.org/techbirds/generator-edu-generator)
 
 
 > Yeoman generator generating a Yeoman generator
