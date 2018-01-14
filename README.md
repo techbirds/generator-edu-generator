@@ -1,4 +1,4 @@
-# generator-generator [![Build Status](https://secure.travis-ci.org/yeoman/generator-generator.svg?branch=master)](https://travis-ci.org/yeoman/generator-generator) [![Coverage Status](https://coveralls.io/repos/yeoman/generator-generator/badge.svg?branch=master&service=github)](https://coveralls.io/github/yeoman/generator-generator?branch=master)
+# generator-edu-generator [![Build Status](https://secure.travis-ci.org/techbirds/generator-edu-generator.svg?branch=master)](https://travis-ci.org/yeoman/generator-edu-generator)
 
 
 > Yeoman generator generating a Yeoman generator
@@ -8,14 +8,14 @@
 
 ## Getting started
 
-- Install: `npm install -g generator-generator`
-- Run: `yo generator`
+- Install: `npm install -g generator-edu-generator`
+- Run: `yo edu-generator`
 
 
 ## Commands
 
-* `yo generator` shows a wizard for generating a new generator
-* `yo generator:subgenerator <name>` generates a subgenerator with the name `<name>`
+* `yo edu-generator` shows a wizard for generating a new generator
+* `yo edu-generator:subgenerator <name>` generates a subgenerator with the name `<name>`
 
 
 ## What do you get?
