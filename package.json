@@ -18,7 +18,10 @@
   ],
   "repository": "techbirds/generator-edu-generator",
   "scripts": {
-    "prepublish": "nsp check"
+    "prepublish": "nsp check",
+    "pretest": "eslint .",
+    "precommit": "lint-staged",
+    "test": "jest"
   },
   "engines": {
     "node": ">=4.0.0"
