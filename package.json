@@ -16,7 +16,7 @@
     "create",
     "boilerplate"
   ],
-  "repository": "yeoman/generator-generator",
+  "repository": "techbirds/generator-edu-generator",
   "scripts": {
     "prepublish": "nsp check"
   },
